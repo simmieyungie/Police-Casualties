@@ -4,8 +4,9 @@ Police brutality/killings in the US (2013-2019)
 #### The dataset contains reports of police killings throughout all states in the United States.
 
 #### An extensive Exploratory Data Analysis was executed;
--Missing Values Imputation
--Examining and correcting Datatypes
+- Visualizing Missing trend
+- Missing Values Imputation
+- Examining and correcting Datatypes
 
 #### Exploration Processes exectuted on the dataset includes;
 - Averge Victim Age - Density Distribution
